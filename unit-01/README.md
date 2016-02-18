@@ -26,17 +26,17 @@
     <tr>
         <td>1.3</td>
         <td>Intro to the Command Line</td>
-        <td>Lab</td>
+        <td></td>
     </tr>
     <tr>
         <td>1.4</td>
-        <td>Intro to the Command Line</td>
+        <td>Review to the Command Line</td>
         <td>Lab</td>
     </tr>
     
     <tr>
         <td>1.5</td>
-        <td>Create Your Webpage</td>
+        <td></td>
         <td></td>
     </tr>
     <tr>

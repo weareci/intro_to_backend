@@ -15,27 +15,28 @@
     </tr>
     <tr>
         <td>1.1</td>
-        <td>Intro to Code</td>
-        <td></td>
+        <td>Meeting Your IDE</td>
+        <th></th>
     </tr>
     <tr>
         <td>1.2</td>
-        <td>Intro to Code</td>
+        <td>Intro to Github</td>
         <td></td>
     </tr>
     <tr>
         <td>1.3</td>
-        <td>Intro to Code</td>
-        <td></td>
+        <td>Intro to the Command Line</td>
+        <td>Lab</td>
     </tr>
     <tr>
         <td>1.4</td>
-        <td>Intro to Code</td>
-        <td></td>
+        <td>Intro to the Command Line</td>
+        <td>Lab</td>
     </tr>
+    
     <tr>
         <td>1.5</td>
-        <td>Intro to Code</td>
+        <td>Create Your Webpage</td>
         <td></td>
     </tr>
     <tr>

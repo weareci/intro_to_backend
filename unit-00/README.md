@@ -1,4 +1,4 @@
-# Unit 1
+# Unit 0
 
 ##Student Outcomes
 <ul>
@@ -12,6 +12,11 @@
         <th>Lesson #</th>
         <th>Lesson Title</th>
         <th>Lesson Topics</th>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Intro to Code</td>
+        <td></td>
     </tr>
     <tr>
         <td>1.2</td>

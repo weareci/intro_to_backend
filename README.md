@@ -1,7 +1,5 @@
 # Intro to Backend Engineering
 
-##Overview
-
 ##Course Outline
 
 ###[Unit 0 - We Are C/I](unit-00)

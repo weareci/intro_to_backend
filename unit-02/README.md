@@ -15,28 +15,28 @@
     </tr>
     <tr>
         <td>2.1</td>
-        <td>Intro to Code</td>
-        <td></td>
+        <td>Strings</td>
+        <td>Lab</td>
     </tr>
     <tr>
         <td>2.2</td>
-        <td>Intro to Code</td>
+        <td>Integers</td>
         <td></td>
     </tr>
     <tr>
         <td>2.3</td>
-        <td>Intro to Code</td>
+        <td>Variable</td>
         <td></td>
     </tr>
     <tr>
         <td>2.4</td>
-        <td>Intro to Code</td>
-        <td></td>
+        <td>I</td>
+        <td>Lab</td>
     </tr>
     <tr>
         <td>2.5</td>
-        <td>Intro to Code</td>
         <td></td>
+        <td>Lab</td>
     </tr>
     <tr>
         <td>Project 2</td>
